@@ -6,4 +6,5 @@
 - Nathaniel Stokes
 - Samuel Apusiyine Avike
 - Vinicius Eduardo Rocca
+- Jayce Odin Nephi Brown
 =======
