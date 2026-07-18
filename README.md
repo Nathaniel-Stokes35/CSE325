@@ -6,4 +6,3 @@
 - Nathaniel Stokes
 - Samuel Apusiyine Avike
 - Vinicius Eduardo Rocca
-=======
